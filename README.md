@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 🔭 I’m interested in AI, Fuzzing Development.
-- 🌱 I'm currently working on : Researching JSEngine Fuzzing
+- 🌱 I'm currently working on : Researching Fuzzing
 - 💬 Ask me about Python, AI, Fuzzing
 
 ## Github
