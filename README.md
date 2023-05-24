@@ -8,6 +8,14 @@
 ## Github
 [![Jueon's github stats](https://github-readme-stats.vercel.app/api?username=EJueon)](https://github.com/anuraghazra/github-readme-stats)
 
+## Reported Bugs
+|software|bugs|
+|---|---|
+|JerryScript|CVE-2023-31906 , CVE-2023-31907, CVE-2023-31908, CVE-2023-31910, CVE-2023-31913, CVE-2023-31914, CVE-2023-31916, CVE-2023-31918, CVE-2023-31919, CVE-2023-31920, CVE-2023-31921|
+|QuickJS|CVE-2023-31922|
+
+	
+
 ## Contacts
 lluot.llu@gmail.com
 
