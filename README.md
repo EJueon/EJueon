@@ -5,6 +5,7 @@
 - 🌱 I'm currently working on : Researching Fuzzing
 - 💬 Ask me about Python, AI, Fuzzing
 
+contacts : jueoneom@yonsei.ac.kr 
 
 <!-- ## Problem Solving -->
 <!--
